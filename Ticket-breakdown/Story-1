@@ -1,0 +1,10 @@
+Story : Analysis | AgentId modification
+Description: Analysis the external service dependency for custom agentId
+Status : Backlog
+Acceptance criteria: Analysis with E2E impact.
+Level of Effort: 2D
+Implementation Details : Below are the ticket requirements:
+1. Analysis the impact with external services
+2. Value addition with custom agentId
+3. Deployment plan (phase-wise)
+4. Backwards compatibility

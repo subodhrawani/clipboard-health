@@ -1,0 +1,12 @@
+Story : UI | Custom AgentId
+Description:frontend implementation of custom agentId
+Status : Backlog
+Acceptance criteria: Dev complete (Dev testing with unit test cases having code coverage of 95+%).
+Level of Effort: 5D
+Implementation Details : Below are the ticket requirements:
+1. Code changes for custom agentId as per design
+2. Validation check for new agentId
+3. Refactoring impact on test cases
+4. Integration testing
+5. Documentation
+6. Telemetry review

@@ -1,0 +1,13 @@
+Story : Design | Custom AgentId
+Description: Design custom agentId
+Status : Backlog
+Acceptance criteria: Design should take care of E2E flow. If external service impacted with custom agentID
+                        then Design should have design sign off from external service.
+Level of Effort: 4D
+Implementation Details : Below are the ticket requirements:
+1. Design the custom agentId (generation of custom agentId -Library or internal implementation).
+2. Latency and throughput impact.
+3. DataBase sharding review. Assuming we have distributed system and DB partition .
+4. Infra cost for new implement of agentId (DataBase size)
+5. Design Backwards compatibility
+6. Documentation

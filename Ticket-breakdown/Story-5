@@ -1,0 +1,11 @@
+Story : Load testing | Custom AgentId
+Description:Load testing of custom agentId
+Status : Backlog
+Acceptance criteria: Load testing with assuming 2x traffic as compared to current PROD throughput.
+Level of Effort: 2D
+Implementation Details : Below are the ticket requirements:
+1. Load with 2x throughput.
+2. Before and after analysis.
+3. E2E flow load testing including external service
+4. Documentation
+5. Telemetry review
